@@ -31,13 +31,13 @@ então eu devo fazer "[_A_]".
 ![](./imgs/Agil_Entendendo_Seu_Comportamento_03.jpeg)
 
 
-No diagrama a cima.
+No diagrama acima.
 
 Poucas coisas estão sobre nosso controle.
 
 Não conseguimos fazer com que o Mundo real pare de emitir eventos.
 
-Assim como não conseguimos parar de observar esses evendos e construir um entendimento a partir das nossas premissas ou modelos mentais. 
+Assim como não conseguimos parar de observar esses eventos e construir um entendimento a partir das nossas premissas ou modelos mentais. 
 
 Muito menos, conseguimos parar de agir a partir das explicações e razões obtidas.
 
