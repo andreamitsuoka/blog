@@ -1,11 +1,11 @@
 ![](./imgs/Agil_Dinamica_Agentes_Racionais.jpeg)
 
-# [Agil] - Dinâmica_Agentes_Racionais
+# [Ágil] - Dinâmica_Agentes_Racionais
 
 
 ## Regras
 
-- 1 - Escolha um numero de [0, ..., 100]
+- 1 - Escolha um número de [0, ..., 100]
 
 ## Ganhador
 
@@ -39,7 +39,7 @@ Como ler a função matemática acima: Suja a somatória , vezes dois terços.
 
 * > qualquer número vezes 0 será igual a Zero.
 
-## Por quê ZERO ?
+## Por que ZERO ?
 
 * Zero multiplicando com qualquer número é sempre ZERO.
 
@@ -52,7 +52,7 @@ Então :
 
 ## Provocação
 
-Você toma suas decições Racionalmente, ou apenas o faz pela força do hábito ?
+Você toma suas decisões Racionalmente, ou apenas o faz pela força do hábito ?
 
 ## Então pq a decisão mais óbvia não é Zero ?
 
